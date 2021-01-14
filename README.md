@@ -8,7 +8,7 @@ Repository for the 2020 AI2S Julia course.
 
 [Luca Manzoni](https://scholar.google.com/citations?user=ufJKQegAAAAJ&hl=en) is a researcher @ Dept. of Mathematics and Geosciences, University of Trieste, Italy.
 
-His reaserch focuses on evolutionary methods and he regularly uses Julia for his works.
+His research focuses on evolutionary methods and he regularly uses Julia for his works.
 
 ## The course
 
