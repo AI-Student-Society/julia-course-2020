@@ -59,5 +59,5 @@ Check out our social profiles:
 - [Facebook](facebook.com/aistudentsociety)
 - [LinkedIn](linkedin.com/company/ai-student-society)
 
-There's also a Julia community in Trieste! [](https://twitter.com/JuliaTrieste)
+There's also a Julia community in Trieste! [The Twitter page](https://twitter.com/JuliaTrieste)
 
